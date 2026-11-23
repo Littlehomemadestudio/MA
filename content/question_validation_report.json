@@ -1,0 +1,343 @@
+{
+ "version": 2,
+ "totalGenerated": 1409,
+ "totalPassed": 732,
+ "totalFailed": 0,
+ "nearDuplicatesRejected": 229,
+ "templateCapRejections": 448,
+ "passRate": 51.95,
+ "families": {
+  "مفهومی": 78,
+  "مستقیم": 277,
+  "کاربردی": 96,
+  "خطایاب": 68,
+  "قضاوت": 58,
+  "وارونه": 73,
+  "چندمرحله‌ای": 57,
+  "چالشی": 25
+ },
+ "tiers": {
+  "آسان": 96,
+  "متوسط": 339,
+  "سخت": 257,
+  "خبره": 40
+ },
+ "definitionalStatements": 35,
+ "perSkill": {
+  "sets-number-sets": {
+   "generated": 54,
+   "passed": 22,
+   "failed": 32,
+   "v2passed": 14,
+   "templates": 3,
+   "families": 3
+  },
+  "sets-intervals": {
+   "generated": 62,
+   "passed": 16,
+   "failed": 46,
+   "v2passed": 0,
+   "templates": 2,
+   "families": 1
+  },
+  "sets-finite-infinite": {
+   "generated": 21,
+   "passed": 13,
+   "failed": 8,
+   "v2passed": 7,
+   "templates": 2,
+   "families": 2
+  },
+  "sets-complement": {
+   "generated": 42,
+   "passed": 16,
+   "failed": 26,
+   "v2passed": 8,
+   "templates": 2,
+   "families": 2
+  },
+  "sets-inclusion-exclusion": {
+   "generated": 51,
+   "passed": 25,
+   "failed": 26,
+   "v2passed": 9,
+   "templates": 4,
+   "families": 2
+  },
+  "patterns-general-term": {
+   "generated": 46,
+   "passed": 24,
+   "failed": 22,
+   "v2passed": 8,
+   "templates": 4,
+   "families": 3
+  },
+  "patterns-linear": {
+   "generated": 26,
+   "passed": 15,
+   "failed": 11,
+   "v2passed": 8,
+   "templates": 3,
+   "families": 2
+  },
+  "seq-arithmetic": {
+   "generated": 64,
+   "passed": 39,
+   "failed": 25,
+   "v2passed": 20,
+   "templates": 8,
+   "families": 5
+  },
+  "seq-geometric": {
+   "generated": 43,
+   "passed": 28,
+   "failed": 15,
+   "v2passed": 12,
+   "templates": 6,
+   "families": 4
+  },
+  "trig-ratios": {
+   "generated": 54,
+   "passed": 22,
+   "failed": 32,
+   "v2passed": 14,
+   "templates": 4,
+   "families": 3
+  },
+  "trig-special-angles": {
+   "generated": 45,
+   "passed": 14,
+   "failed": 31,
+   "v2passed": 6,
+   "templates": 3,
+   "families": 2
+  },
+  "trig-unit-circle": {
+   "generated": 30,
+   "passed": 22,
+   "failed": 8,
+   "v2passed": 8,
+   "templates": 3,
+   "families": 2
+  },
+  "trig-identities": {
+   "generated": 38,
+   "passed": 14,
+   "failed": 24,
+   "v2passed": 6,
+   "templates": 3,
+   "families": 3
+  },
+  "exp-laws": {
+   "generated": 43,
+   "passed": 20,
+   "failed": 23,
+   "v2passed": 12,
+   "templates": 4,
+   "families": 3
+  },
+  "roots-simplify": {
+   "generated": 27,
+   "passed": 17,
+   "failed": 10,
+   "v2passed": 5,
+   "templates": 4,
+   "families": 3
+  },
+  "roots-nth": {
+   "generated": 25,
+   "passed": 17,
+   "failed": 8,
+   "v2passed": 6,
+   "templates": 3,
+   "families": 2
+  },
+  "exp-rational": {
+   "generated": 36,
+   "passed": 29,
+   "failed": 7,
+   "v2passed": 14,
+   "templates": 4,
+   "families": 3
+  },
+  "poly-ops": {
+   "generated": 32,
+   "passed": 19,
+   "failed": 13,
+   "v2passed": 8,
+   "templates": 5,
+   "families": 3
+  },
+  "identities-notable": {
+   "generated": 36,
+   "passed": 18,
+   "failed": 18,
+   "v2passed": 7,
+   "templates": 4,
+   "families": 2
+  },
+  "quad-factoring": {
+   "generated": 40,
+   "passed": 17,
+   "failed": 23,
+   "v2passed": 9,
+   "templates": 3,
+   "families": 3
+  },
+  "quad-formula": {
+   "generated": 28,
+   "passed": 16,
+   "failed": 12,
+   "v2passed": 8,
+   "templates": 4,
+   "families": 2
+  },
+  "quad-discriminant": {
+   "generated": 37,
+   "passed": 26,
+   "failed": 11,
+   "v2passed": 12,
+   "templates": 4,
+   "families": 4
+  },
+  "parabola-vertex": {
+   "generated": 46,
+   "passed": 28,
+   "failed": 18,
+   "v2passed": 20,
+   "templates": 6,
+   "families": 4
+  },
+  "inequality-sign": {
+   "generated": 28,
+   "passed": 14,
+   "failed": 14,
+   "v2passed": 6,
+   "templates": 2,
+   "families": 2
+  },
+  "function-concept": {
+   "generated": 27,
+   "passed": 15,
+   "failed": 12,
+   "v2passed": 8,
+   "templates": 2,
+   "families": 2
+  },
+  "function-eval": {
+   "generated": 35,
+   "passed": 15,
+   "failed": 20,
+   "v2passed": 7,
+   "templates": 3,
+   "families": 2
+  },
+  "function-domain": {
+   "generated": 39,
+   "passed": 19,
+   "failed": 20,
+   "v2passed": 11,
+   "templates": 4,
+   "families": 3
+  },
+  "function-range": {
+   "generated": 25,
+   "passed": 15,
+   "failed": 10,
+   "v2passed": 3,
+   "templates": 3,
+   "families": 2
+  },
+  "function-types": {
+   "generated": 25,
+   "passed": 21,
+   "failed": 4,
+   "v2passed": 7,
+   "templates": 3,
+   "families": 3
+  },
+  "counting-principle": {
+   "generated": 41,
+   "passed": 25,
+   "failed": 16,
+   "v2passed": 11,
+   "templates": 5,
+   "families": 3
+  },
+  "permutation": {
+   "generated": 41,
+   "passed": 21,
+   "failed": 20,
+   "v2passed": 8,
+   "templates": 4,
+   "families": 4
+  },
+  "combination": {
+   "generated": 43,
+   "passed": 21,
+   "failed": 22,
+   "v2passed": 10,
+   "templates": 4,
+   "families": 4
+  },
+  "probability-basics": {
+   "generated": 43,
+   "passed": 21,
+   "failed": 22,
+   "v2passed": 13,
+   "templates": 4,
+   "families": 2
+  },
+  "probability-complement": {
+   "generated": 25,
+   "passed": 12,
+   "failed": 13,
+   "v2passed": 3,
+   "templates": 3,
+   "families": 3
+  },
+  "probability-events": {
+   "generated": 27,
+   "passed": 13,
+   "failed": 14,
+   "v2passed": 6,
+   "templates": 3,
+   "families": 3
+  },
+  "stats-population-sample": {
+   "generated": 20,
+   "passed": 14,
+   "failed": 6,
+   "v2passed": 6,
+   "templates": 2,
+   "families": 1
+  },
+  "stats-variable-types": {
+   "generated": 21,
+   "passed": 15,
+   "failed": 6,
+   "v2passed": 7,
+   "templates": 2,
+   "families": 2
+  },
+  "stats-central": {
+   "generated": 43,
+   "passed": 14,
+   "failed": 29,
+   "v2passed": 6,
+   "templates": 3,
+   "families": 3
+  }
+ },
+ "failures": [],
+ "validationMethods": [
+  "legacy kinds: validators.py (iteration, brute-force enumeration, Horner, point-sampling, Vieta, statistics module)",
+  "v2 families: validators3.py — first-wrong-step consistency for error-id",
+  "v2 comparison: witness re-derivation (surd arithmetic from squarefree structure, sign/monotonic numeric probes)",
+  "v2 counting/probability: full outcome-space enumeration with itertools",
+  "v2 reverse/multi-step: independent re-solve by iteration or substitution probes",
+  "near-duplicate rejection: digit-stripped structural fingerprint (sha1) per skill",
+  "structural variety: per-(skill, template) cap of 8 questions",
+  "structural checks: 4 unique options, single correct key, balanced HTML, no placeholders"
+ ]
+}

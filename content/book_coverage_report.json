@@ -1,0 +1,611 @@
+{
+ "book": {
+  "title": "ریاضی (۱) پایه دهم",
+  "code": "110211",
+  "pdfPages": 176,
+  "bodyPages": 170,
+  "scannedPages": 0,
+  "extractedChars": 222665,
+  "pedagogicalBlocks": {
+   "فعالیت": 196,
+   "کار در کلاس": 64,
+   "تمرین": 64,
+   "مثال": 272
+  }
+ },
+ "chaptersCovered": "7/7",
+ "lessonsCovered": "23/23",
+ "totalQuestions": 732,
+ "chapters": [
+  {
+   "id": "ch1",
+   "number": 1,
+   "name": "مجموعه، الگو و دنباله",
+   "sourcePages": [
+    1,
+    27
+   ],
+   "lessons": [
+    {
+     "id": "ch1-l1",
+     "name": "مجموعه‌های متناهی و نامتناهی",
+     "sourcePages": [
+      2,
+      7
+     ],
+     "pdfPagesVerified": true,
+     "skills": [
+      "sets-number-sets",
+      "sets-intervals",
+      "sets-finite-infinite"
+     ],
+     "questionCount": 51,
+     "difficultySpread": {
+      "1": 24,
+      "2": 21,
+      "3": 6,
+      "4": 0
+     }
+    },
+    {
+     "id": "ch1-l2",
+     "name": "متمم یک مجموعه",
+     "sourcePages": [
+      8,
+      13
+     ],
+     "pdfPagesVerified": true,
+     "skills": [
+      "sets-complement",
+      "sets-inclusion-exclusion"
+     ],
+     "questionCount": 41,
+     "difficultySpread": {
+      "1": 0,
+      "2": 32,
+      "3": 9,
+      "4": 0
+     }
+    },
+    {
+     "id": "ch1-l3",
+     "name": "الگو و دنباله",
+     "sourcePages": [
+      14,
+      20
+     ],
+     "pdfPagesVerified": true,
+     "skills": [
+      "patterns-general-term",
+      "patterns-linear"
+     ],
+     "questionCount": 39,
+     "difficultySpread": {
+      "1": 0,
+      "2": 17,
+      "3": 22,
+      "4": 0
+     }
+    },
+    {
+     "id": "ch1-l4",
+     "name": "دنباله‌های حسابی و هندسی",
+     "sourcePages": [
+      21,
+      27
+     ],
+     "pdfPagesVerified": true,
+     "skills": [
+      "seq-arithmetic",
+      "seq-geometric"
+     ],
+     "questionCount": 67,
+     "difficultySpread": {
+      "1": 0,
+      "2": 30,
+      "3": 33,
+      "4": 4
+     }
+    }
+   ],
+   "questionCount": 198,
+   "skills": [
+    "sets-number-sets",
+    "sets-intervals",
+    "sets-finite-infinite",
+    "sets-complement",
+    "sets-inclusion-exclusion",
+    "patterns-general-term",
+    "patterns-linear",
+    "seq-arithmetic",
+    "seq-geometric"
+   ]
+  },
+  {
+   "id": "ch2",
+   "number": 2,
+   "name": "مثلثات",
+   "sourcePages": [
+    28,
+    46
+   ],
+   "lessons": [
+    {
+     "id": "ch2-l1",
+     "name": "نسبت‌های مثلثاتی",
+     "sourcePages": [
+      29,
+      35
+     ],
+     "pdfPagesVerified": true,
+     "skills": [
+      "trig-ratios",
+      "trig-special-angles"
+     ],
+     "questionCount": 36,
+     "difficultySpread": {
+      "1": 0,
+      "2": 16,
+      "3": 20,
+      "4": 0
+     }
+    },
+    {
+     "id": "ch2-l2",
+     "name": "دایرهٔ مثلثاتی",
+     "sourcePages": [
+      36,
+      41
+     ],
+     "pdfPagesVerified": true,
+     "skills": [
+      "trig-unit-circle"
+     ],
+     "questionCount": 22,
+     "difficultySpread": {
+      "1": 4,
+      "2": 18,
+      "3": 0,
+      "4": 0
+     }
+    },
+    {
+     "id": "ch2-l3",
+     "name": "روابط بین نسبت‌های مثلثاتی",
+     "sourcePages": [
+      42,
+      46
+     ],
+     "pdfPagesVerified": true,
+     "skills": [
+      "trig-identities"
+     ],
+     "questionCount": 14,
+     "difficultySpread": {
+      "1": 0,
+      "2": 4,
+      "3": 4,
+      "4": 6
+     }
+    }
+   ],
+   "questionCount": 72,
+   "skills": [
+    "trig-ratios",
+    "trig-special-angles",
+    "trig-unit-circle",
+    "trig-identities"
+   ]
+  },
+  {
+   "id": "ch3",
+   "number": 3,
+   "name": "توان‌های گویا و عبارت‌های جبری",
+   "sourcePages": [
+    47,
+    68
+   ],
+   "lessons": [
+    {
+     "id": "ch3-l1",
+     "name": "ریشه و توان",
+     "sourcePages": [
+      48,
+      53
+     ],
+     "pdfPagesVerified": true,
+     "skills": [
+      "exp-laws",
+      "roots-simplify"
+     ],
+     "questionCount": 37,
+     "difficultySpread": {
+      "1": 10,
+      "2": 16,
+      "3": 11,
+      "4": 0
+     }
+    },
+    {
+     "id": "ch3-l2",
+     "name": "ریشهٔ nام",
+     "sourcePages": [
+      54,
+      58
+     ],
+     "pdfPagesVerified": true,
+     "skills": [
+      "roots-nth"
+     ],
+     "questionCount": 17,
+     "difficultySpread": {
+      "1": 6,
+      "2": 8,
+      "3": 3,
+      "4": 0
+     }
+    },
+    {
+     "id": "ch3-l3",
+     "name": "توان‌های گویا",
+     "sourcePages": [
+      59,
+      62
+     ],
+     "pdfPagesVerified": true,
+     "skills": [
+      "exp-rational"
+     ],
+     "questionCount": 29,
+     "difficultySpread": {
+      "1": 0,
+      "2": 15,
+      "3": 8,
+      "4": 6
+     }
+    },
+    {
+     "id": "ch3-l4",
+     "name": "عبارت‌های جبری",
+     "sourcePages": [
+      63,
+      68
+     ],
+     "pdfPagesVerified": true,
+     "skills": [
+      "poly-ops",
+      "identities-notable"
+     ],
+     "questionCount": 37,
+     "difficultySpread": {
+      "1": 6,
+      "2": 13,
+      "3": 18,
+      "4": 0
+     }
+    }
+   ],
+   "questionCount": 120,
+   "skills": [
+    "exp-laws",
+    "roots-simplify",
+    "roots-nth",
+    "exp-rational",
+    "poly-ops",
+    "identities-notable"
+   ]
+  },
+  {
+   "id": "ch4",
+   "number": 4,
+   "name": "معادله‌ها و نامعادله‌ها",
+   "sourcePages": [
+    69,
+    93
+   ],
+   "lessons": [
+    {
+     "id": "ch4-l1",
+     "name": "معادلهٔ درجه دوم و روش‌های مختلف حل آن",
+     "sourcePages": [
+      70,
+      77
+     ],
+     "pdfPagesVerified": true,
+     "skills": [
+      "quad-factoring",
+      "quad-formula",
+      "quad-discriminant"
+     ],
+     "questionCount": 59,
+     "difficultySpread": {
+      "1": 0,
+      "2": 28,
+      "3": 20,
+      "4": 11
+     }
+    },
+    {
+     "id": "ch4-l2",
+     "name": "سهمی",
+     "sourcePages": [
+      78,
+      82
+     ],
+     "pdfPagesVerified": true,
+     "skills": [
+      "parabola-vertex"
+     ],
+     "questionCount": 28,
+     "difficultySpread": {
+      "1": 0,
+      "2": 14,
+      "3": 6,
+      "4": 8
+     }
+    },
+    {
+     "id": "ch4-l3",
+     "name": "تعیین علامت",
+     "sourcePages": [
+      83,
+      93
+     ],
+     "pdfPagesVerified": true,
+     "skills": [
+      "inequality-sign"
+     ],
+     "questionCount": 14,
+     "difficultySpread": {
+      "1": 0,
+      "2": 0,
+      "3": 14,
+      "4": 0
+     }
+    }
+   ],
+   "questionCount": 101,
+   "skills": [
+    "quad-factoring",
+    "quad-formula",
+    "quad-discriminant",
+    "parabola-vertex",
+    "inequality-sign"
+   ]
+  },
+  {
+   "id": "ch5",
+   "number": 5,
+   "name": "تابع",
+   "sourcePages": [
+    94,
+    117
+   ],
+   "lessons": [
+    {
+     "id": "ch5-l1",
+     "name": "مفهوم تابع و بازنمایی‌های آن",
+     "sourcePages": [
+      95,
+      100
+     ],
+     "pdfPagesVerified": true,
+     "skills": [
+      "function-concept",
+      "function-eval"
+     ],
+     "questionCount": 30,
+     "difficultySpread": {
+      "1": 8,
+      "2": 15,
+      "3": 7,
+      "4": 0
+     }
+    },
+    {
+     "id": "ch5-l2",
+     "name": "دامنه و برد توابع",
+     "sourcePages": [
+      101,
+      108
+     ],
+     "pdfPagesVerified": true,
+     "skills": [
+      "function-domain",
+      "function-range"
+     ],
+     "questionCount": 34,
+     "difficultySpread": {
+      "1": 0,
+      "2": 15,
+      "3": 19,
+      "4": 0
+     }
+    },
+    {
+     "id": "ch5-l3",
+     "name": "انواع تابع",
+     "sourcePages": [
+      109,
+      117
+     ],
+     "pdfPagesVerified": true,
+     "skills": [
+      "function-types"
+     ],
+     "questionCount": 21,
+     "difficultySpread": {
+      "1": 14,
+      "2": 7,
+      "3": 0,
+      "4": 0
+     }
+    }
+   ],
+   "questionCount": 85,
+   "skills": [
+    "function-concept",
+    "function-eval",
+    "function-domain",
+    "function-range",
+    "function-types"
+   ]
+  },
+  {
+   "id": "ch6",
+   "number": 6,
+   "name": "شمارش، بدون شمردن",
+   "sourcePages": [
+    118,
+    140
+   ],
+   "lessons": [
+    {
+     "id": "ch6-l1",
+     "name": "شمارش",
+     "sourcePages": [
+      119,
+      126
+     ],
+     "pdfPagesVerified": true,
+     "skills": [
+      "counting-principle"
+     ],
+     "questionCount": 25,
+     "difficultySpread": {
+      "1": 5,
+      "2": 12,
+      "3": 3,
+      "4": 5
+     }
+    },
+    {
+     "id": "ch6-l2",
+     "name": "جایگشت",
+     "sourcePages": [
+      127,
+      132
+     ],
+     "pdfPagesVerified": true,
+     "skills": [
+      "permutation"
+     ],
+     "questionCount": 21,
+     "difficultySpread": {
+      "1": 3,
+      "2": 7,
+      "3": 11,
+      "4": 0
+     }
+    },
+    {
+     "id": "ch6-l3",
+     "name": "ترکیب",
+     "sourcePages": [
+      133,
+      140
+     ],
+     "pdfPagesVerified": true,
+     "skills": [
+      "combination"
+     ],
+     "questionCount": 21,
+     "difficultySpread": {
+      "1": 0,
+      "2": 8,
+      "3": 13,
+      "4": 0
+     }
+    }
+   ],
+   "questionCount": 67,
+   "skills": [
+    "counting-principle",
+    "permutation",
+    "combination"
+   ]
+  },
+  {
+   "id": "ch7",
+   "number": 7,
+   "name": "آمار و احتمال",
+   "sourcePages": [
+    141,
+    170
+   ],
+   "lessons": [
+    {
+     "id": "ch7-l1",
+     "name": "احتمال یا اندازه‌گیری شانس",
+     "sourcePages": [
+      142,
+      151
+     ],
+     "pdfPagesVerified": true,
+     "skills": [
+      "probability-basics",
+      "probability-complement",
+      "probability-events"
+     ],
+     "questionCount": 46,
+     "difficultySpread": {
+      "1": 5,
+      "2": 17,
+      "3": 24,
+      "4": 0
+     }
+    },
+    {
+     "id": "ch7-l2",
+     "name": "مقدمه‌ای بر علم آمار، جامعه و نمونه",
+     "sourcePages": [
+      152,
+      158
+     ],
+     "pdfPagesVerified": true,
+     "skills": [
+      "stats-population-sample"
+     ],
+     "questionCount": 14,
+     "difficultySpread": {
+      "1": 8,
+      "2": 6,
+      "3": 0,
+      "4": 0
+     }
+    },
+    {
+     "id": "ch7-l3",
+     "name": "متغیر و انواع آن",
+     "sourcePages": [
+      159,
+      170
+     ],
+     "pdfPagesVerified": true,
+     "skills": [
+      "stats-variable-types",
+      "stats-central"
+     ],
+     "questionCount": 29,
+     "difficultySpread": {
+      "1": 3,
+      "2": 20,
+      "3": 6,
+      "4": 0
+     }
+    }
+   ],
+   "questionCount": 89,
+   "skills": [
+    "probability-basics",
+    "probability-complement",
+    "probability-events",
+    "stats-population-sample",
+    "stats-variable-types",
+    "stats-central"
+   ]
+  }
+ ],
+ "lessonsMissingQuestions": [],
+ "skillsWithoutGenerators": []
+}
